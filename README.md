@@ -1,3 +1,7 @@
+## Git Repository Link
+
+https://github.com/itsmejoshi/fetch-take-home-assignment.git
+
 ## Overview
 - This Python program is implemented to checks the health of a set of HTTP endpoints,calculates the availability percentage for each domain, and prints the metrics. The program reads an input YAML configuration file containing a list of HTTP endpoints.
 
